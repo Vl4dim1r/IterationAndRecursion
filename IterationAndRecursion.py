@@ -1,7 +1,7 @@
 
 #Brad Boal
 #CIS261
-#Iteration and Recursion
+#Iterative and  recursive functionality
 
 def iterative_factorial(n):
     result = 1
